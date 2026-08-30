@@ -1,0 +1,17 @@
+name,country,type,tagline,flight_inr,nightly_inr,daily_inr,rating,color,image
+Goa,India,Domestic,"Golden beaches + palm groves",6000,4500,2500,4.7,#ffb74d,https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=400&q=80
+Manali,India,Domestic,"Snowy peaks + mountain views",5000,3500,2000,4.6,#4dd0e1,https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=400&q=80
+Jaipur,India,Domestic,"Forts + rich royal heritage",4500,4000,2200,4.7,#ef5350,https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?auto=format&fit=crop&w=400&q=80
+Kerala,India,Domestic,"Backwaters + lush greenery",7000,5000,2800,4.8,#81c784,https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=400&q=80
+Udaipur,India,Domestic,"Lakes + heritage palaces",5500,5500,2600,4.8,#f06292,https://images.unsplash.com/photo-1615837137844-6330eb129ef9?auto=format&fit=crop&w=400&q=80
+Shimla,India,Domestic,"Pine hills + colonial charm",4500,3800,2100,4.5,#ba68c8,https://images.unsplash.com/photo-1597074866923-dc0589150358?auto=format&fit=crop&w=400&q=80
+Andaman,India,Domestic,"Turquoise waters + coral reefs",11000,6500,3200,4.9,#26a69a,https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=400&q=80
+Leh Ladakh,India,Domestic,"High passes + monastic valleys",9500,4800,2900,4.8,#78909c,https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=400&q=80
+Maldives,Maldives,International,"Crystal lagoons + luxury villas",18000,18000,6500,4.9,#00bcd4,https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=400&q=80
+Valencia,Spain,International,"Sunshine + slow mornings",30000,12000,7500,4.9,#ef725b,https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=400&q=80
+Lisbon,Portugal,International,"Colourful streets + coast",35000,11000,7000,4.8,#f2c764,https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=400&q=80
+Paris,France,International,"Big culture, tiny cafes",43000,15000,8800,4.7,#a9c4ab,https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=400&q=80
+Copenhagen,Denmark,International,"Bikes, bakeries + hygge",50000,16000,8800,4.6,#7da9a0,https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?auto=format&fit=crop&w=400&q=80
+Bali,Indonesia,International,"Tropical beaches + rice terraces",25000,6000,3500,4.8,#4db6ac,https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=400&q=80
+Tokyo,Japan,International,"Vibrant tech + ancient temples",45000,14000,7000,4.9,#e57373,https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=400&q=80
+Dubai,UAE,International,"Futuristic skyscrapers + desert safaris",22000,12500,6000,4.7,#ba68c8,https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=400&q=80
